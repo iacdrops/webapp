@@ -23,9 +23,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](http://rbiostudio.herokuapp.com) and ![Image](src)
+[Link](https://www.facebook.com/rbiostudio) and ![Image](src)
 ```
-[Home](http://rbiostudio.herokuapp.com/)
+[Home](https://www.facebook.com/rbiostudio/)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
