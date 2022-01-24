@@ -2,10 +2,10 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://www.facebook.com/rbiostudio) and ![Image](src)
+[Link](https://www.facebook.com/iacdrops) and ![Image](src)
 ```
-[Home](https://www.facebook.com/rbiostudio/)
+[Home](https://www.facebook.com/iacdrops/)
 
 ### Support or Contact
 
-Having trouble with Pages? mail: developer@rbiostudio.tech
+Having trouble with Pages? mail: developer@iacdrops.xyz
